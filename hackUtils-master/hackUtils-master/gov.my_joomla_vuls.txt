@@ -1,6 +1,0 @@
-[+] vuls found! url: http://sabahvfm.rtm.gov.my/sabahvfm, admin: adminsabahvfm, password: $P$DBC/m0SBc0MTNyApF91XsCM3Lkrna91, email: a@a.com, session_id: no info!
-[+] vuls found! url: http://pdtmaran.pahang.gov.my, admin: btmSUK, password: $2y$10$/LwKbQVAA9qvb5/jZgEHfOk87oXKZ.KVZUsupK2Dw5.HEgyUc/lmG, email: fromage@decoartshop.net.pl, session_id: no info!
-[+] vuls found! url: http://pdtmaran.pahang.gov.my/index.php, admin: btmSUK, password: $2y$10$/LwKbQVAA9qvb5/jZgEHfOk87oXKZ.KVZUsupK2Dw5.HEgyUc/lmG, email: fromage@decoartshop.net.pl, session_id: no info!
-[+] vuls found! url: http://sabahvfm.rtm.gov.my/sabahvfm, admin: adminsabahvfm, password: $P$DBC/m0SBc0MTNyApF91XsCM3Lkrna91, email: a@a.com, session_id: no info!
-[+] vuls found! url: http://www.mohr.gov.my, admin: Administrator, password: $P$Dt23hTEr585Iaw2maT/HZQ9YPd6LAg., email: hishamuddin@mohr.gov.my, session_id: no info!
-[+] vuls found! url: http://www.mohr.gov.my/index.php, admin: Administrator, password: $P$Dt23hTEr585Iaw2maT/HZQ9YPd6LAg., email: hishamuddin@mohr.gov.my, session_id: no info!
