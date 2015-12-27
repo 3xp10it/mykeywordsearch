@@ -1,0 +1,4 @@
+[+] vuls found! url: http://www.kurashiki-cu.ac.jp/~kc, admin: jbug, password: $2y$10$0B3hA1nYLqs3YRKEgxiO2etjFtA65z5mbIbnC42/S4A5YWbfVBuRm, email: hectorbonilha2018@gmail.com, session_id: no info!
+[+] vuls found! url: https://www.kurashiki-cu.ac.jp/~kc, admin: jbug, password: $2y$10$0B3hA1nYLqs3YRKEgxiO2etjFtA65z5mbIbnC42/S4A5YWbfVBuRm, email: hectorbonilha2018@gmail.com, session_id: no info!
+[+] vuls found! url: http://t-spots.co.jp, admin: tspot-wadmin, password: $2y$10$2hm10SMsvC8b4dOq.b65s.odtdBR1Qd8ubaWZp7RDMMnZyvhhSoZS, email: hdq@t-spots.co.jp, session_id: no info!
+[+] vuls found! url: http://t-spots.co.jp/component, admin: tspot-wadmin, password: $2y$10$2hm10SMsvC8b4dOq.b65s.odtdBR1Qd8ubaWZp7RDMMnZyvhhSoZS, email: hdq@t-spots.co.jp, session_id: no info!

@@ -1,0 +1,2 @@
+[+] vuls found! url: http://3sc.unccd.int, admin: cutia, password: $P$Dv.a1eW1KNZtbXYnPaCIy.8wPCXFyr1, email: adso@adso.fr, session_id: no info!
+[+] vuls found! url: http://3sc.unccd.int/legal-details, admin: cutia, password: $P$Dv.a1eW1KNZtbXYnPaCIy.8wPCXFyr1, email: adso@adso.fr, session_id: no info!

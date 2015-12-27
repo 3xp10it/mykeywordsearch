@@ -1,0 +1,1 @@
+[+] vuls found! url: https://www.portlandadulted.org, admin: admin, password: $2y$10$1ut15FNu8xX/JYpSL1edcubCjp6V7pVXcVsUW7.qdD2UMFToOxBEq, email: admin@nzn.com.tr, session_id: no info!

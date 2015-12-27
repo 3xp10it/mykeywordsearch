@@ -1,0 +1,46 @@
+[+] vuls found! url: http://pdtmaran.pahang.gov.my, admin: btmSUK, password: $2y$10$/LwKbQVAA9qvb5/jZgEHfOk87oXKZ.KVZUsupK2Dw5.HEgyUc/lmG, email: fromage@decoartshop.net.pl, session_id: no info!
+[+] vuls found! url: http://www.bacoor.gov.ph, admin: #dlya-zhenshhin, password: $2y$10$QbF.xG6KbL8tBG6F1lPBtucNrQVV60opt2/82TTtKc3OdmGw4WvyS, email: 066858474@mail.ru, session_id: no info!
+[+] vuls found! url: http://kyson.hoabinh.gov.vn, admin: admin, password: 	$P$DxT5XkOAdzm6O1HSF08XRJu009889z/ , email: hangdtk@gmail.com, session_id: no info!
+[+] vuls found! url: http://akcakoca.gov.tr, admin: admin, password: no info!, email: asun@sfalszowane.elblag.pl, session_id: no info!
+[+] vuls found! url: http://www.kurashiki-cu.ac.jp/~kc, admin: jbug, password: $2y$10$0B3hA1nYLqs3YRKEgxiO2etjFtA65z5mbIbnC42/S4A5YWbfVBuRm, email: hectorbonilha2018@gmail.com, session_id: no info!
+[+] vuls found! url: http://t-spots.co.jp, admin: tspot-wadmin, password: $2y$10$2hm10SMsvC8b4dOq.b65s.odtdBR1Qd8ubaWZp7RDMMnZyvhhSoZS, email: hdq@t-spots.co.jp, session_id: no info!
+[+] vuls found! url: http://t-spots.co.jp/component, admin: no info!, password: $2y$10$2hm10SMsvC8b4dOq.b65s.odtdBR1Qd8ubaWZp7RDMMnZyvhhSoZS, email: hdq@t-spots.co.jp, session_id: no info!
+[+] vuls found! url: http://www.joomlaeventmanager.net, admin: !TIMMY!, password: no info!, email: 114@manga-kensei.com, session_id: no info!
+[+] vuls found! url: http://www.joomlaeventmanager.net/forum, admin: !TIMMY!, password: no info!, email: 114@manga-kensei.com, session_id: no info!
+[+] vuls found! url: http://visionwidget.com, admin: alinan, password: $2y$10$uuTq7Meefj2Fp50AepVth.57ptUXQOvoc/xufq1pB1yEhsydg0CiS, email: anthony.monico@gmail.com, session_id: no info!
+[+] vuls found! url: http://www.chronoengine.com, admin:  Andghuladze, password: $2y$10$x.BlzDQdXaeW/chw477FA.7zFgIGQi6/.XfRfNcHomGaszsHwugZ6, email: 0..0.7..........a.pe.x.0..0.7.pl@gmail.com, session_id: no info!
+[+] vuls found! url: https://www.portlandadulted.org, admin: admin, password: $2y$10$1ut15FNu8xX/JYpSL1edcubCjp6V7pVXcVsUW7.qdD2UMFToOxBEq, email: admin@nzn.com.tr, session_id: no info!
+[+] vuls found! url: http://marine.rutgers.edu/main, admin: admin, password: $P$D.mrdlupiTly/lkrva3bNZCMLjZvu/1, email: robertson@marine.rutgers.edu, session_id: no info!
+[+] vuls found! url: http://3sc.unccd.int, admin: cutia, password: $P$Dv.a1eW1KNZtbXYnPaCIy.8wPCXFyr1, email: adso@adso.fr, session_id: no info!
+[+] vuls found! url: http://sabahvfm.rtm.gov.my/sabahvfm, admin: adminsabahvfm, password: $P$DBC/m0SBc0MTNyApF91XsCM3Lkrna91, email: a@a.com, session_id: no info!
+[+] vuls found! url: http://pdtmaran.pahang.gov.my, admin: btmSUK, password: $2y$10$/LwKbQVAA9qvb5/jZgEHfOk87oXKZ.KVZUsupK2Dw5.HEgyUc/lmG, email: fromage@decoartshop.net.pl, session_id: no info!
+[+] vuls found! url: http://www.mohr.gov.my, admin: Administrator, password: $P$Dt23hTEr585Iaw2maT/HZQ9YPd6LAg., email: hishamuddin@mohr.gov.my, session_id: no info!
+[+] vuls found! url: http://www.bacoor.gov.ph, admin: #dlya-zhenshhin, password: $2y$10$QbF.xG6KbL8tBG6F1lPBtucNrQVV60opt2/82TTtKc3OdmGw4WvyS, email: 066858474@mail.ru, session_id: no info!
+[+] vuls found! url: http://kyson.hoabinh.gov.vn, admin: admin, password: 	$P$DxT5XkOAdzm6O1HSF08XRJu009889z/ , email: hangdtk@gmail.com, session_id: no info!
+[+] vuls found! url: http://akcakoca.gov.tr, admin: admin, password: $2y$10$yOyYtfpBPjaCtjKNCcbvf.dnLYBYj5Hcm9vEK44QLsYILESDIrjN., email: asun@sfalszowane.elblag.pl, session_id: no info!
+[+] vuls found! url: http://www.kurashiki-cu.ac.jp/~kc, admin: jbug, password: $2y$10$0B3hA1nYLqs3YRKEgxiO2etjFtA65z5mbIbnC42/S4A5YWbfVBuRm, email: hectorbonilha2018@gmail.com, session_id: no info!
+[+] vuls found! url: http://t-spots.co.jp, admin: tspot-wadmin, password: $2y$10$2hm10SMsvC8b4dOq.b65s.odtdBR1Qd8ubaWZp7RDMMnZyvhhSoZS, email: hdq@t-spots.co.jp, session_id: no info!
+[+] vuls found! url: http://t-spots.co.jp/component, admin: tspot-wadmin, password: $2y$10$2hm10SMsvC8b4dOq.b65s.odtdBR1Qd8ubaWZp7RDMMnZyvhhSoZS, email: hdq@t-spots.co.jp, session_id: no info!
+[+] vuls found! url: http://www.joomlaeventmanager.net, admin: !TIMMY!, password: no info!, email: 114@manga-kensei.com, session_id: no info!
+[+] vuls found! url: http://www.joomlaeventmanager.net/forum, admin: !TIMMY!, password: no info!, email: 114@manga-kensei.com, session_id: no info!
+[+] vuls found! url: http://visionwidget.com, admin: alinan, password: $2y$10$uuTq7Meefj2Fp50AepVth.57ptUXQOvoc/xufq1pB1yEhsydg0CiS, email: anthony.monico@gmail.com, session_id: no info!
+[+] vuls found! url: http://www.kksou.com/php-gtk2, admin: admin001, password: $2y$10$/mzSAL9/VlPcotuZ75ZSV.4iSjPz6Tf7CfQ/.AlL6PgDQ8wqz31qu, email: 71@bawimy24.net.pl, session_id: no info!
+[+] vuls found! url: http://www.chronoengine.com, admin:  Andghuladze, password: $2y$10$x.BlzDQdXaeW/chw477FA.7zFgIGQi6/.XfRfNcHomGaszsHwugZ6, email: 0..0.7..........a.pe.x.0..0.7.pl@gmail.com, session_id: no info!
+[+] vuls found! url: https://www.portlandadulted.org, admin: admin, password: $2y$10$1ut15FNu8xX/JYpSL1edcubCjp6V7pVXcVsUW7.qdD2UMFToOxBEq, email: admin@nzn.com.tr, session_id: no info!
+[+] vuls found! url: http://marine.rutgers.edu/main, admin: admin, password: $P$D.mrdlupiTly/lkrva3bNZCMLjZvu/1, email: robertson@marine.rutgers.edu, session_id: no info!
+[+] vuls found! url: http://3sc.unccd.int, admin: cutia, password: $P$Dv.a1eW1KNZtbXYnPaCIy.8wPCXFyr1, email: adso@adso.fr, session_id: no info!
+[+] vuls found! url: http://sabahvfm.rtm.gov.my/sabahvfm, admin: adminsabahvfm, password: $P$DBC/m0SBc0MTNyApF91XsCM3Lkrna91, email: a@a.com, session_id: no info!
+[+] vuls found! url: http://pdtmaran.pahang.gov.my, admin: btmSUK, password: $2y$10$/LwKbQVAA9qvb5/jZgEHfOk87oXKZ.KVZUsupK2Dw5.HEgyUc/lmG, email: fromage@decoartshop.net.pl, session_id: no info!
+[+] vuls found! url: http://www.mohr.gov.my, admin: Administrator, password: $P$Dt23hTEr585Iaw2maT/HZQ9YPd6LAg., email: hishamuddin@mohr.gov.my, session_id: no info!
+[+] vuls found! url: http://www.bacoor.gov.ph, admin: #dlya-zhenshhin, password: $2y$10$QbF.xG6KbL8tBG6F1lPBtucNrQVV60opt2/82TTtKc3OdmGw4WvyS, email: 066858474@mail.ru, session_id: no info!
+[+] vuls found! url: http://kyson.hoabinh.gov.vn, admin: admin, password: 	$P$DxT5XkOAdzm6O1HSF08XRJu009889z/ , email: hangdtk@gmail.com, session_id: no info!
+[+] vuls found! url: http://akcakoca.gov.tr, admin: admin, password: $2y$10$yOyYtfpBPjaCtjKNCcbvf.dnLYBYj5Hcm9vEK44QLsYILESDIrjN., email: asun@sfalszowane.elblag.pl, session_id: no info!
+[+] vuls found! url: http://www.kurashiki-cu.ac.jp/~kc, admin: jbug, password: $2y$10$0B3hA1nYLqs3YRKEgxiO2etjFtA65z5mbIbnC42/S4A5YWbfVBuRm, email: hectorbonilha2018@gmail.com, session_id: no info!
+[+] vuls found! url: http://t-spots.co.jp, admin: tspot-wadmin, password: $2y$10$2hm10SMsvC8b4dOq.b65s.odtdBR1Qd8ubaWZp7RDMMnZyvhhSoZS, email: hdq@t-spots.co.jp, session_id: no info!
+[+] vuls found! url: http://t-spots.co.jp/component, admin: tspot-wadmin, password: $2y$10$2hm10SMsvC8b4dOq.b65s.odtdBR1Qd8ubaWZp7RDMMnZyvhhSoZS, email: hdq@t-spots.co.jp, session_id: no info!
+[+] vuls found! url: http://visionwidget.com, admin: alinan, password: $2y$10$uuTq7Meefj2Fp50AepVth.57ptUXQOvoc/xufq1pB1yEhsydg0CiS, email: anthony.monico@gmail.com, session_id: no info!
+[+] vuls found! url: http://www.kksou.com/php-gtk2, admin: admin001, password: $2y$10$/mzSAL9/VlPcotuZ75ZSV.4iSjPz6Tf7CfQ/.AlL6PgDQ8wqz31qu, email: 71@bawimy24.net.pl, session_id: no info!
+[+] vuls found! url: http://www.chronoengine.com, admin:  Andghuladze, password: $2y$10$x.BlzDQdXaeW/chw477FA.7zFgIGQi6/.XfRfNcHomGaszsHwugZ6, email: 0..0.7..........a.pe.x.0..0.7.pl@gmail.com, session_id: no info!
+[+] vuls found! url: https://www.portlandadulted.org, admin: admin, password: $2y$10$1ut15FNu8xX/JYpSL1edcubCjp6V7pVXcVsUW7.qdD2UMFToOxBEq, email: admin@nzn.com.tr, session_id: no info!
+[+] vuls found! url: http://marine.rutgers.edu/main, admin: admin, password: $P$D.mrdlupiTly/lkrva3bNZCMLjZvu/1, email: robertson@marine.rutgers.edu, session_id: no info!
+[+] vuls found! url: http://3sc.unccd.int, admin: cutia, password: $P$Dv.a1eW1KNZtbXYnPaCIy.8wPCXFyr1, email: adso@adso.fr, session_id: no info!

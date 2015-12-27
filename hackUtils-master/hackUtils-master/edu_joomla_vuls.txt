@@ -1,0 +1,2 @@
+[+] vuls found! url: http://marine.rutgers.edu/main, admin: admin, password: $P$D.mrdlupiTly/lkrva3bNZCMLjZvu/1, email: robertson@marine.rutgers.edu, session_id: no info!
+
