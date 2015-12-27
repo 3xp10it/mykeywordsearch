@@ -1,2 +1,0 @@
-[+] vuls found! url: http://www.joomlaeventmanager.net, admin: !TIMMY!, password: no info!, email: 114@manga-kensei.com, session_id: no info!
-[+] vuls found! url: http://www.joomlaeventmanager.net/forum, admin: !TIMMY!, password: no info!, email: 114@manga-kensei.com, session_id: no info!
