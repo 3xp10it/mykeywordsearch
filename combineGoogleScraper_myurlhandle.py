@@ -94,8 +94,13 @@ def save_url_to_file(url):
         	#print(type("\r\n"))
         	#print(type(ur+"\r\n"))
         	file=open("urls.txt","a+")
-        	#file.write(ur+"\r\n"),python3下写成 ur+"\r\n" 或 ur+"\n" 效果一样
-        	file.write(ur+"\n")
+        	'''
+        	file.write(ur+"\r\n"),python3下写成 ur+"\r\n" 或 ur+"\n" 效果一样
+        	写成+"\n"则产生的文件放到windows下看不到换行的效果(形如http://xxx.xxx.xxxhtt://xxx.xxx.xxx),实际处理起来(读文件)好像也是
+        	有"按换行读的效果的,file.write(ur+"\r\n")会写成'http://twitter.com\n', 'https://twitter.com\n', 'http://twitter.com/hashtag\n'的效果"
+
+        	'''
+        	file.write(ur+"\r\n")
         	file.flush()
         	file.close()
 for url in all_urls:
