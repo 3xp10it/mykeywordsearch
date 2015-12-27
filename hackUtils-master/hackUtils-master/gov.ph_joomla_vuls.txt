@@ -1,4 +1,0 @@
-[+] vuls found! url: http://www.bacoor.gov.ph, admin: #dlya-zhenshhin, password: $2y$10$QbF.xG6KbL8tBG6F1lPBtucNrQVV60opt2/82TTtKc3OdmGw4WvyS, email: 066858474@mail.ru, session_id: no info!
-[+] vuls found! url: https://www.bacoor.gov.ph, admin: #dlya-zhenshhin, password: $2y$10$QbF.xG6KbL8tBG6F1lPBtucNrQVV60opt2/82TTtKc3OdmGw4WvyS, email: 066858474@mail.ru, session_id: no info!
-[+] vuls found! url: http://www.bacoor.gov.ph/index.php, admin: #dlya-zhenshhin, password: $2y$10$QbF.xG6KbL8tBG6F1lPBtucNrQVV60opt2/82TTtKc3OdmGw4WvyS, email: 066858474@mail.ru, session_id: no info!
-[+] vuls found! url: https://www.bacoor.gov.ph/index.php, admin: #dlya-zhenshhin, password: $2y$10$QbF.xG6KbL8tBG6F1lPBtucNrQVV60opt2/82TTtKc3OdmGw4WvyS, email: 066858474@mail.ru, session_id: no info!
