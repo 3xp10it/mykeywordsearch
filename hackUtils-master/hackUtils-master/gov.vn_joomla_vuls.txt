@@ -1,2 +1,0 @@
-[+] vuls found! url: http://kyson.hoabinh.gov.vn, admin: admin, password: 	$P$DxT5XkOAdzm6O1HSF08XRJu009889z/ , email: hangdtk@gmail.com, session_id: no info!
-[+] vuls found! url: http://kyson.hoabinh.gov.vn/index.php, admin: admin, password: 	$P$DxT5XkOAdzm6O1HSF08XRJu009889z/ , email: hangdtk@gmail.com, session_id: no info!
