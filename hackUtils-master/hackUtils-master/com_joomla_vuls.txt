@@ -1,7 +1,0 @@
-[+] vuls found! url: http://visionwidget.com, admin: alinan, password: $2y$10$uuTq7Meefj2Fp50AepVth.57ptUXQOvoc/xufq1pB1yEhsydg0CiS, email: anthony.monico@gmail.com, session_id: no info!
-[+] vuls found! url: http://visionwidget.com/website-powered-joomla.html, admin: alinan, password: $2y$10$uuTq7Meefj2Fp50AepVth.57ptUXQOvoc/xufq1pB1yEhsydg0CiS, email: anthony.monico@gmail.com, session_id: no info!
-[+] vuls found! url: http://www.kksou.com/php-gtk2, admin: admin001, password: $2y$10$/mzSAL9/VlPcotuZ75ZSV.4iSjPz6Tf7CfQ/.AlL6PgDQ8wqz31qu, email: 71@bawimy24.net.pl, session_id: no info!
-[+] vuls found! url: http://www.chronoengine.com, admin:  Andghuladze, password: $2y$10$x.BlzDQdXaeW/chw477FA.7zFgIGQi6/.XfRfNcHomGaszsHwugZ6, email: 0..0.7..........a.pe.x.0..0.7.pl@gmail.com, session_id: no info!
-[+] vuls found! url: https://www.chronoengine.com, admin:  Andghuladze, password: $2y$10$x.BlzDQdXaeW/chw477FA.7zFgIGQi6/.XfRfNcHomGaszsHwugZ6, email: 0..0.7..........a.pe.x.0..0.7.pl@gmail.com, session_id: no info!
-[+] vuls found! url: http://www.chronoengine.com/, admin:  Andghuladze, password: $2y$10$x.BlzDQdXaeW/chw477FA.7zFgIGQi6/.XfRfNcHomGaszsHwugZ6, email: 0..0.7..........a.pe.x.0..0.7.pl@gmail.com, session_id: no info!
-[+] vuls found! url: https://www.chronoengine.com/, admin:  Andghuladze, password: $2y$10$x.BlzDQdXaeW/chw477FA.7zFgIGQi6/.XfRfNcHomGaszsHwugZ6, email: 0..0.7..........a.pe.x.0..0.7.pl@gmail.com, session_id: no info!
