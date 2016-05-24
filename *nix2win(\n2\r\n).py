@@ -19,10 +19,6 @@ def main():
     	#will turn "unsee different lines" in win
     	f1.write(url[0:-1]+"\r\n")
     f1.close()
-    f2=open("urls1.txt","r+")
-    urls1=f2.readlines()
-    print urls1
-    f2.close()
 
 if __name__=='__main__':
     main()
